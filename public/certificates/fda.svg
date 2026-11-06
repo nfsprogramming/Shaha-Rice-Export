@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+   <path d="M10 50 Q50 10 90 50 Q50 90 10 50 Z" fill="none" stroke="#C5A266" stroke-width="2"/>
+   <text x="50" y="60" font-family="serif" font-size="22" fill="#C5A266" text-anchor="middle" font-weight="bold">FDA</text>
+   <text x="50" y="75" font-family="sans-serif" font-size="6" fill="#C5A266" text-anchor="middle">APPROVED</text>
+</svg>

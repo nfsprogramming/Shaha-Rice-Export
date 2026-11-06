@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#C5A266" stroke-width="3"/>
+  <circle cx="50" cy="50" r="38" fill="none" stroke="#C5A266" stroke-width="1"/>
+  <path d="M50 20 L55 35 L50 35 L50 50" stroke="#C5A266" stroke-width="2" fill="none"/>
+  <text x="50" y="65" font-family="serif" font-size="28" fill="#C5A266" text-anchor="middle" font-weight="bold">K</text>
+  <path d="M30 60 Q20 50 30 40" stroke="#C5A266" stroke-width="2" fill="none"/>
+  <text x="50" y="85" font-family="sans-serif" font-size="6" fill="#C5A266" text-anchor="middle">KOSHER</text>
+</svg>

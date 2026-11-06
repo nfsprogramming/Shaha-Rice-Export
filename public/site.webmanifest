@@ -1,0 +1,21 @@
+{
+  "name": "Shaha Rice Exports",
+  "short_name": "Shaha Rice",
+  "description": "Premium Indian rice exporter delivering excellence to 35+ countries",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/shaha-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "food"],
+  "lang": "en",
+  "dir": "ltr"
+}
